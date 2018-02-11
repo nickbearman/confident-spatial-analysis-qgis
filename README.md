@@ -4,7 +4,7 @@ Material for 1 day course on Confident Spatial Analysis in QGIS.
 
 The material for this workshop is available here:  
 - [The PDF of the handout with the practical instructions (PDF, 292 KB)](https://github.com/nickbearman/confident-spatial-analysis-qgis/releases/download/1.0/workbook.pdf)  
-- [The presentation given by Nick (PDF, MB)]()  
+- [The presentation given by Nick (PDF, 7.2 MB)](https://github.com/nickbearman/confident-spatial-analysis-qgis/releases/download/1.0/presentation-csa-qgis.pdf)  
 - [The session handout (PDF, 100KB)](https://github.com/nickbearman/confident-spatial-analysis-qgis/releases/download/1.0/handout_csa_qgis.pdf) 
 - [The data used in the workshop (folder, total: 42.9 MB)](https://github.com/nickbearman/confident-spatial-analysis-qgis/tree/master/data)
 
