@@ -1,4 +1,4 @@
-# Confident Spatial Analysis I QGIS
+# Confident Spatial Analysis in QGIS
 
 Material for 1 day course on Confident Spatial Analysis in QGIS.
 
